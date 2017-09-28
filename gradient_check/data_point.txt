@@ -1,0 +1,6 @@
+This is the 14 dimension datapoint X:
+X=[-1, 1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, 1, 1]
+
+This is the 1 dimension label for X:
+label = [3]
+

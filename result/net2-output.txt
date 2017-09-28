@@ -1,0 +1,27 @@
+iter 1: train loss 1.3772 acc 0.2759, val loss 1.3756 acc 0.2823
+iter 2: train loss 1.3772 acc 0.2759, val loss 1.3756 acc 0.2823
+iter 3: train loss 1.3771 acc 0.2759, val loss 1.3755 acc 0.2823
+iter 4: train loss 1.3771 acc 0.2759, val loss 1.3754 acc 0.2823
+iter 5: train loss 1.3770 acc 0.2759, val loss 1.3753 acc 0.2823
+iter 6: train loss 1.3768 acc 0.2773, val loss 1.3750 acc 0.2833
+iter 7: train loss 1.3763 acc 0.2892, val loss 1.3745 acc 0.3026
+iter 8: train loss 1.3746 acc 0.3092, val loss 1.3727 acc 0.3189
+iter 9: train loss 1.3564 acc 0.3712, val loss 1.3540 acc 0.3856
+iter 10: train loss 0.6946 acc 0.6943, val loss 0.6909 acc 0.6862
+iter 11: train loss 0.5995 acc 0.7327, val loss 0.6043 acc 0.7274
+iter 12: train loss 0.4395 acc 0.8028, val loss 0.4650 acc 0.7915
+iter 13: train loss 0.3906 acc 0.8255, val loss 0.4257 acc 0.8077
+iter 14: train loss 0.3572 acc 0.8422, val loss 0.4013 acc 0.8164
+iter 15: train loss 0.3131 acc 0.8633, val loss 0.3578 acc 0.8388
+iter 16: train loss 0.3103 acc 0.8669, val loss 0.3590 acc 0.8383
+iter 17: train loss 0.2943 acc 0.8742, val loss 0.3529 acc 0.8469
+iter 18: train loss 0.2618 acc 0.8899, val loss 0.3191 acc 0.8632
+iter 19: train loss 0.2558 acc 0.8886, val loss 0.3117 acc 0.8616
+iter 20: train loss 0.2432 acc 0.8962, val loss 0.3028 acc 0.8688
+iter 21: train loss 0.2549 acc 0.8891, val loss 0.3145 acc 0.8586
+iter 22: train loss 0.2476 acc 0.8934, val loss 0.3071 acc 0.8713
+iter 23: train loss 0.2317 acc 0.8991, val loss 0.2862 acc 0.8815
+iter 24: train loss 0.2236 acc 0.9052, val loss 0.2795 acc 0.8861
+iter 25: train loss 0.2306 acc 0.9033, val loss 0.2887 acc 0.8820
+iter 26: train loss 0.2459 acc 0.8942, val loss 0.3081 acc 0.8713
+The final accuracy on the test set is 0.8673
