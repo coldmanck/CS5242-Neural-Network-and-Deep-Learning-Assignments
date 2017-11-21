@@ -11,5 +11,5 @@ Below is the cost and accuracy changing during training of the first network, wh
 
 ## Credit
 - [Stanford CS231n](http://cs231n.github.io)
-- [Peter's note: How to implement neural network](http://peterroelants.github.io/posts/neural_network_implementation_part04/)
+- [Peter's note: How to implement neural network](http://peterroelants.github.io/posts/neural_network_implementation_part01/)
 - [Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
